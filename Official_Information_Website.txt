@@ -1,0 +1,12 @@
+Basic SDK and document download link：
+https://gitee.com/orbbecdeveloper/OrbbecSDK
+
+OrbbecViewer tool download link：
+https://github.com/orbbec/OrbbecSDK/releases
+
+ROS related documentation and SDK：
+https://github.com/orbbec/OrbbecSDK_ROS1.git
+https://github.com/orbbec/OrbbecSDK_ROS2.git
+
+PythonSDK download link：
+https://github.com/orbbec/pyorbbecsdk
